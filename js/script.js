@@ -41,7 +41,7 @@ function mulai() {
   munculkanTikus();
   setTimeout(() => {
     selesai = true;
-  }, 30000);
+  }, 10000);
 }
 
 function pukul() {
